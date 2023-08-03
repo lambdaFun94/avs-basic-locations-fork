@@ -1,6 +1,6 @@
 {
   "name": "pages-starter-react-locations",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "An example repository to help users get started with React development on Yext Pages",
   "author": "sumo@yext.com",
   "license": "BSD-3-Clause",
@@ -15,6 +15,7 @@
   "dependencies": {
     "@headlessui/react": "^1.7.12",
     "@heroicons/react": "^2.0.14",
+    "@yext/sites-components": "^1.0.0-rc.0",
     "classnames": "^2.3.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
